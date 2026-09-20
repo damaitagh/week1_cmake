@@ -19,3 +19,6 @@
 Hello,Robomaster!
 
 ## 使用.gitignore屏蔽了本地的build/
+
+## 成功的截图
+<img src="/home/ubuntu24/桌面/week1_cmake/week1_cmake_success.png">
